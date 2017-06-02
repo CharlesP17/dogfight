@@ -1,9 +1,10 @@
 package Model;
 
-public class Cloud 
+public class Cloud extends Mobile
 {
 	public Cloud (Direction direction, Dimension dimension)
 	{
-		
+	
+		super()
 	}
 }
