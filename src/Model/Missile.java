@@ -35,4 +35,3 @@ public class Missile extends Mobile {
 		return true;
 	}
 }
-//fdp
