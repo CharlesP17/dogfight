@@ -7,7 +7,7 @@ private static int HEIGHT = 10;
 private static String IMAGE;
 	
 	public Cloud(Direction direction, Dimension dimension) {
-		super(direction, null, dimension, SPEED, IMAGE);
+		super(direction, new Position (0,0,0,0), dimension, SPEED, IMAGE);
 	}
 
 }
